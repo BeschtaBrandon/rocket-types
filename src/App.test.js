@@ -1,3 +1,10 @@
+/*
+  Yahara Software Programming Challenge
+
+ Author: Brandon Beschta
+ Date: 10.26.2018
+*/
+
 import React from 'react';
 import ReactDOM from 'react-dom';
 import App from './App';
